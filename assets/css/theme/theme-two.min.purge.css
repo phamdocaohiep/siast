@@ -1810,6 +1810,10 @@ html[dir=rtl] .uc-navbar-left {
     margin: 0 !important
 }
 
+.uc-open * {
+    color: #fff !important;
+}
+
 .uc-accordion-title {
     position: relative;
     text-decoration: none;
